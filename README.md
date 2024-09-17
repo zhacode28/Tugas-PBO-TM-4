@@ -1,4 +1,4 @@
-#### Komunitas Gengsee Database Management
+## Member Gengsee Database Management
 
 Aplikasi ini adalah program sederhana berbasis Java yang menggunakan JDBC untuk mengelola data member dari komunitas Gengsee yang disimpan dalam sebuah tabel PostgreSQL. Aplikasi ini memiliki beberapa fungsi utama seperti menambah, menampilkan, menghapus, dan memperbarui data member.
 
